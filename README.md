@@ -1,0 +1,1 @@
+Running the Python script `aggregate.py` will add a bit to the tops of the files `sample_*.html` yielding a common title and a simple navigation system between them. Running `aggregate.py` again should have no effect.
